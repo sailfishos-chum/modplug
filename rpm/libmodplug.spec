@@ -22,7 +22,7 @@ Name:           libmodplug
 Version:        0.8.9.1+git220131.d1b97e
 Release:        0
 Summary:        A MOD playing library
-License:        SUSE-Public-Domain
+License:        Public Domain
 Group:          System/Libraries
 URL:            https://github.com/Konstanty/libmodplug/
 Source:         %{name}-%{version}.tar.xz
